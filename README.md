@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **everything 😅**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at <a href="https://rohitha.me">rohitha.me</a> 
 
 - 💬 Ask me about **HTML,CSS,Flutter,Java.**
 
