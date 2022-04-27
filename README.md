@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://rohitha.me">rohitha.me</a> 
 
-- 💬 Ask me about **HTML,CSS,Flutter,Java.**
+- 💬 Ask me about **HTML, CSS, Java, PHP.**
 
 - 📫 How to reach me **rohith_rathnayake@yahoo.com**
 
