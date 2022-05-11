@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohitha Rathnayake</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitha97&label=Profile%20views&color=0e75b6&style=flat" alt="rohitha97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitha97" alt="rohitha97" /></a> </p>
+<br/>
 
 - 🧐 I'm currently an **Undergraduate**
 
