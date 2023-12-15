@@ -1,6 +1,6 @@
-## Hey, I'm Rohitha from Sri Lanka. 
+## Hey, I'm Rohitha. 
 
-- 🏢 Software Engineer (Full Stack) 
+- 🏢 I'm a Software Engineer (Full Stack) 
 - 🧰 I build with: `Java` `Spring Boot`, `Typescript `, `React` `Next.js`,  `PHP` `Laravel `, `Tailwind` ...
 - ⚡ I enjoy traveling, shopping, watching TV series, and partying :)
 
